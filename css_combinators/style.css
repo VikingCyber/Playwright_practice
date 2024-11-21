@@ -1,0 +1,25 @@
+p {
+    color: gray;
+}
+
+h1 {
+    color: blue;
+}
+
+.highlight {
+    color: red;
+}
+
+#special {
+    color: green;
+}
+
+li {
+    background-color: yellow;
+}
+
+img {
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+}
